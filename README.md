@@ -17,6 +17,5 @@ journalShortName
 Year
 authors
 AbstractText
-
 ```
 
